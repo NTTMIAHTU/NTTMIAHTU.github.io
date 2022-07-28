@@ -113,11 +113,17 @@ form .btn {
 h1 {
   font-size: 46px;
   color: #ccc;
+  position: relative;
+  left: 178px;
+  top: 70px;
 
 }
 p {
   font-size: 28px;
-  color: #ccc
+  color: #ccc;
+   position: relative ;
+ left: 178px;
+  top: 70px;
 }
 .header {
   position: relative;
@@ -127,7 +133,7 @@ p {
 position: absolute;
 top: 2000px;
 bottom: 60px;
- left: 860px;
+ left: 1000px;
   top: 200px;
   background-image: 
 linear-gradient(to right, rgba(0,0,0,1) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,1) 100%),
@@ -137,7 +143,7 @@ background-size: cover;
 .container-content {
   text-align: center;
   position: relative;
-left: -170px;
+left: -190px;
   top: -130px;
 }
 .img{
