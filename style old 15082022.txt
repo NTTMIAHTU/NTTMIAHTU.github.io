@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 #bg {
-  background-image: #92B4EC;
+  background-image: url('img/purple_Image.jpg');
   position: fixed;
   left: 0;
   top: 0;
@@ -99,7 +99,7 @@ form .btn {
 
 
 #logo {
-  background-image: url('img/blueeirIcon.gif');
+  background-image: url('img/eirIcon.gif');
   background-position: 0px;
   position: absolute;
   left: 860px;
